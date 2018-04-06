@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AndroidTrivia</string>
+    <string name="question_1"><![CDATA[1) What language is used to make layouts in android studio?]]></string>
+    <string name="xml">XML</string>
+    <string name="java">JAVA</string>
+    <string name="question_2">2) What language is used to give logic to the app?</string>
+    <string name="textview">TextView</string>
+    <string name="imageview">ImageView</string>
+    <string name="question_3">3) Which of these is used to show image on the screen?</string>
+    <string name="question_4">4) Which of these is used to show text on the screen?</string>
+    <string name="question_5">5) Which of these is used to select multiple answers in android?</string>
+    <string name="question_6">6) which of these languages is used to select one and only one answer?</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="question_7">7) Which of these following is a view group?</string>
+    <string name="relativelayout">RelativeLayout</string>
+    <string name="linearlayout">LinearLayout</string>
+    <string name="drawable">Drawable</string>
+    <string name="styles">Styles</string>
+    <string name="question_8">8) Which folder in android stores the images?</string>
+    <string name="question_9">9) Which folder in android stores the themes?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question_10">10) Do you like android app development?</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
